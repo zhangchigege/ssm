@@ -13,7 +13,7 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
     <properties>
-        <org.springframework.version>4.3.7.RELEASE</org.springframework.version>
+        <org.springframework.version>5.2.20.RELEASE</org.springframework.version>
         <mybatis.version>3.5.0</mybatis.version>
     </properties>
 
